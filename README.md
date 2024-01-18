@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidhant Maan Thapa</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 💬 Ask me about **HTML ,Tailwind CSS ,Javascript, Node.js, Express.js,MongoDb,Mongoose**
+- 💬 Ask me about **HTML ,Tailwind CSS ,Javascript, Node.js, Express.js,MongoDb,Mongoose,Python,PyTorch**
 
 - 📫 How to reach me **thapavidhant@gmail.com**
 
